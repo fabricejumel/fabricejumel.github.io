@@ -1,2 +1,5 @@
 Check to include MAthJax only if use probably add a test on page.mathjax before to include and remove global config at true in order to just use local setting mathjax : true in Page or Post
 Add Reserach Gate Link with same structure of other
+voir pour les logos, CITI, CPE, Chroma, CITI Lab en icon
+voir pour les logos, CITI, CPE, Chroma, CITI Lab en grand dans le about
+faire du About la page de garde
