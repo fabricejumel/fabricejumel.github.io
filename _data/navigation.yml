@@ -10,6 +10,6 @@ main:
     url: /page-archive/
   - title: "lorem-ipsum"
     url: /lorem-ipsum/
-  - title: "Template Guide"
+  - title: "Minimal Mistakes Template Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
