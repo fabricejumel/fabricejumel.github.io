@@ -1,9 +1,10 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Test"
 categories:
-  - Science
+  - Jekyll Template
 tags:
   - content
+  - english
 mathjax: true
 ---
 
