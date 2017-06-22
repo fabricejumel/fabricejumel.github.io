@@ -6,7 +6,7 @@ title: "Publications"
 Opening keynote speaker
 ======
 
-keynote speaker
+Keynote speaker
 ======
 
 
