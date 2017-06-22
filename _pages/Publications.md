@@ -14,7 +14,7 @@ Thesis
 ======
 – F. Jumel, Définition et gestion d'une qualité de serivce pour les applications temps réels, INPL Ecole des mines de Nancy
 2013
-Invited COnference 
+
 
 International Journals
 ======
