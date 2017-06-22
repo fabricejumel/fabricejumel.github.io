@@ -2,10 +2,19 @@
 permalink: /publications/
 title: "Publications"
 ---
+
+Opening keynote speaker
+======
+
+keynote speaker
+======
+
+
 Thesis
 ======
 – F. Jumel, Définition et gestion d'une qualité de serivce pour les applications temps réels, INPL Ecole des mines de Nancy
 2013
+Invited COnference 
 
 International Journals
 ======
@@ -42,5 +51,6 @@ International Journals
 Workshops
 ======
 
-#National Conferences
+National Conferences
+======
 
