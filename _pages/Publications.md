@@ -32,4 +32,4 @@ Av. 2015
 #Workshops
 
 #National Conferences
-* J. Saraydaryan, F.Benali, G. Jombart,V. Legrand, S. Ubéda, L’Apport d’une Ontologie pour la Sécurité des Systèmes d’Information. Journées Francophones sur les Ontologies, JFO 2008.
+
