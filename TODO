@@ -9,7 +9,8 @@ fabrice Jumel‏ @fabriceJumel  11 oct. 2016
 Plus
  @fabricejumel @chroma_inria @CPELyon @citi_lab
 @robotica_2016 invited speaker cognitive solution @IBMWatson  for RoboticsÀ l'origine en anglais
-
+voir pour integrer les options autoplay et loop au lecteur youtube
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Yo19ZhO7CAc?autoplay=1&loop=1&cc_load_policy=1rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
 ----
 Check to include MAthJax only if use probably add a test on page.mathjax before to include and remove global config at true in order to just use local setting mathjax : true in Page or Post
