@@ -1,15 +1,22 @@
 ---
 permalink: /about/
 title: "About me"
-layout: splash
----
-
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-
 
 ---
 
+Fabrice Jumel is professor assistant  in CPE Lyon (Engineering School). He is at the head of the robotic of service specialty . He is a member of the CHROMA INRIA team of the CITI Lab  (Cooperative and Human-aware Robot Navigation in Dynamic Environments). He like Robocup and Robocup like competitions. He is team leader of a robocup@home team and was previously team leader of robocup@work one.
+ 
+He's more precisely involved in social navigation, fleet of robots, robot assistant for elder or disease peoples. 
+
+
+
+---
+
+
+
+---
+
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
 ## Credits
 
 ### Icons + Demo Images:
@@ -28,7 +35,3 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 - [FitVids.JS](http://fitvidsjs.com/)
 - Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
