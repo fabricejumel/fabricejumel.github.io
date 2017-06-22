@@ -4,10 +4,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Categories"
+  - title: "Posts"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Minimal Mistakes Template Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
 
