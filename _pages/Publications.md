@@ -12,14 +12,17 @@ Keynote speaker
 
 Thesis
 ======
-– F. Jumel, Définition et gestion d'une qualité de serivce pour les applications temps réels, INPL Ecole des mines de Nancy
-2013
+Fabrice Jumel, Définition et gestion d'une qualité de serivce pour les applications temps réels, INPL Ecole des mines de Nancy
+2013 sous la direction de Françoise Simonot-Lion et Nicolas Navet
 
 
 International Journals
 ======
 * Loïc Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Preliminary results on algorithms for multi-kinect trajectory fusion in a living lab, IRBM, Volume 36, Issue 6, November 2015, Pages 361-366
+
 International Conferences
+======
+
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, A Data Fusion System to Study Synchronization in    Social Activities, IEEE HealthCom 2016.
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Detection of collaborative activity with Kinect depth cameras (accepted for oral présentation), 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBC 2016.
 
