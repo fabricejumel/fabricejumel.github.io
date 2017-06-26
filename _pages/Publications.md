@@ -38,11 +38,12 @@ International Conferences
 Workshops
 ======
 * J. Saraydaryan, F. Jumel, O. Simonin, Modeling human flows from robots perception : application to navigation in dynamic environment, On-line decision-making in multi-robot coordination, DEMUR, 2016.
-
+* J. Saraydaryan, F. Jumel, O. Simonin, "Modeling human flows from robots perception : application to navigation in dynamic environment",Presentation on Jun 2016, RSS Workshop On-line decision-making in multi-robot coordination, Ann Arbor, USA, 2016
+    
 National Journals
 ======
-F. Jumel, N. Navet, F. Simonot-Lion, "Evaluation de la Qualité de Fonctionnement d'une Application de Contrôle-Commande en fonction de Caractéristiques de son implantation", Technique et Science Informatiques, vol 5, nº3, pp371-398, 2006.
-F. Jumel, N. Navet, F. Simonot-Lion, "Nouvelles politiques pour la réservation explicite de ressources en avance", Technique et Science Informatiques, special issue on real-time systems, vol. 22, nº5, pp599-617, 2003.
+*F. Jumel, N. Navet, F. Simonot-Lion, "Evaluation de la Qualité de Fonctionnement d'une Application de Contrôle-Commande en fonction de Caractéristiques de son implantation", Technique et Science Informatiques, vol 5, nº3, pp371-398, 2006.
+*F. Jumel, N. Navet, F. Simonot-Lion, "Nouvelles politiques pour la réservation explicite de ressources en avance", Technique et Science Informatiques, special issue on real-time systems, vol. 22, nº5, pp599-617, 2003.
 
 National Conferences
 ======
