@@ -5,10 +5,11 @@ title: "Publications"
 
 Opening keynote speaker
 ======
+Fabrice Jumel,Why open robotic challenge are so important ! Robocup as a guideline for teaching and research in robotics. Some feedback from Lyon, LARS 2016 (Latin American Robotics Symposium )
 
 Keynote speaker
 ======
-
+Fabrice Jumel, About use of Watson technologie for Robotics, SBR' 2016 – 4th Brazilian Symposium on Robotics – 13rd Latin
 
 Thesis
 ======
