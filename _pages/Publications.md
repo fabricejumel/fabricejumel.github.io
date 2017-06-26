@@ -29,6 +29,7 @@ International Conferences
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Detection of collaborative activity with Kinect depth cameras (accepted for oral présentation), 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBC 2016.
 * J. Saraydaryan,  F. Jumel, O. Simonin, Robots Delivering Services to Moving People : Individual vs. Group Patrolling Strategies, ARSO 2015.
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan , A bio-inspired Living Lab as a robot exoskeleton, 17th International Conference on E-health Networking, Application& Services, Pages 552 – 556,IEEE HealthCom 2015.
+Ch. El-Gemayel, F. Jumel, N. Abouchi, J. Constantin, D. Zaouk, A global methodology for modeling and simulating medical systems, International Conference on E-health Networking, Application& Services, Pages Pages 414-419,IEEE HealthCom 2015. 
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan , Characterization of a Multi-User Indoor Positioning System based on Low Cost Depth Vision (Kinect) for Monitoring Human Activity in a Smart Home, EMBC, 2015
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan , Preliminary results on algorithms for multi-kinect trajectory fusion in a living lab, IRBM 2015
 
