@@ -25,6 +25,7 @@ International Journals
 International Conferences
 ======
 
+* F. Jumel, J. Saraydaryan, O. Simonin, Mapping likelihood of encountering humans: application to path planning in crowded environment, European Conference on Mobile Robotics, ECMR 2017
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, A Data Fusion System to Study Synchronization in    Social Activities, IEEE HealthCom 2016.
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Detection of collaborative activity with Kinect depth cameras (accepted for oral présentation), 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBC 2016.
 * J. Saraydaryan,  F. Jumel, O. Simonin, Robots Delivering Services to Moving People : Individual vs. Group Patrolling Strategies, ARSO 2015.
