@@ -43,7 +43,7 @@ Workshops
     
 National Journals
 ======
-*J. Saraydaryan, F. Jumel, O. SimoninRIA Revue d'Intelligence Artificielle,"Patrouille Multi-Agent Dynamique, application Robotique pour le Service de Personnes Mobiles", to appear, RIA 2017
+* J. Saraydaryan, F. Jumel, O. SimoninRIA Revue d'Intelligence Artificielle,"Patrouille Multi-Agent Dynamique, application Robotique pour le Service de Personnes Mobiles", to appear, RIA 2017
 * F. Jumel, N. Navet, F. Simonot-Lion, "Evaluation de la Qualité de Fonctionnement d'une Application de Contrôle-Commande en fonction de Caractéristiques de son implantation", Technique et Science Informatiques, vol 5, nº3, pp371-398, 2006.
 * F. Jumel, N. Navet, F. Simonot-Lion, "Nouvelles politiques pour la réservation explicite de ressources en avance", Technique et Science Informatiques, special issue on real-time systems, vol. 22, nº5, pp599-617, 2003.
 
