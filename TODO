@@ -1,20 +1,6 @@
-faire du About la page de garde
-version locale de mathjax js
-voir pour integrer skult
-voir pour tarcer des courbes avec skulr
+Creer le site
+Mettre en place un cadre
+Faire apparaitre le contenu du TDP
+Faire apparfaitre la team
+Mettre en place d'autres liens
 
-@fabricejumel @CPELyon member of @chroma_inria present for keynote speaker @robotica_2016@robotica_2016  "Open Robotic Challenge as guideline for research and teaching"
-
-fabrice Jumel‏ @fabriceJumel  11 oct. 2016
-Plus
- @fabricejumel @chroma_inria @CPELyon @citi_lab
-@robotica_2016 invited speaker cognitive solution @IBMWatson  for RoboticsÀ l'origine en anglais
-voir pour integrer les options autoplay et loop au lecteur youtube
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/Yo19ZhO7CAc?autoplay=1&loop=1&cc_load_policy=1rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
-
-----
-Check to include MAthJax only if use probably add a test on page.mathjax before to include and remove global config at true in order to just use local setting mathjax : true in Page or Post
-Add Reserach Gate Link with same structure of other
-voir pour les logos, CITI, CPE, Chroma, CITI Lab en icon
-voir pour les logos, CITI, CPE, Chroma, CITI Lab en grand dans le about
-faire du About la page de garde
