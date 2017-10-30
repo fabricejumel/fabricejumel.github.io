@@ -211,7 +211,6 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-archives
-  - jelyll-mermaid
 
 # mimic GitHub Pages with --safe
 whitelist:
