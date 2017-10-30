@@ -193,6 +193,9 @@ sass:
 
 # MathJax
   mathjax: false
+  
+# Mermaid
+  mermaid: false
 
 # Outputting
 permalink: /:categories/:title/
