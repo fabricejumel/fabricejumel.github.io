@@ -1,3 +1,10 @@
+---
+title: "Test"
+categories:
+  - Science
+tags:
+  - content
+mermaid: true
+---
 
-
-mathjax: true
+### Test de l'integration mermaid svg
