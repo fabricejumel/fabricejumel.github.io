@@ -8,7 +8,22 @@ mermaid: true
 ---
 
 ### Test de l'integration mermaid svg
+<div class="mermaid">
+sequenceDiagram
+    loop Daily query
+        Alice->>Bob: Hello Bob, how are you?
+        alt is sick
+            Bob->>Alice: Not so good :(
+        else is well
+            Bob->>Alice: Feeling fresh like a daisy
+        end
 
+        opt Extra response
+            Bob->>Alice: Thanks for asking
+        end
+    end
+</div>
+    
 <div class="mermaid">
 sequenceDiagram
     participant Alice
