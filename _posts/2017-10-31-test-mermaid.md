@@ -168,5 +168,21 @@ sequenceDiagram
 		B-->E(A fa:fa-camera-retro perhaps?);
 </div>
 
+<style>
+    .cssClass > rect{
+        fill:#FF0000;
+        stroke:#FFFF00;
+        stroke-width:4px;
+    }
+</style>
+
+
+<div class="mermaid">	
+graph LR;
+    A-->B[AAA<span>BBB</span>];
+    B-->D;
+    class A cssClass;
+</div>
+
 
   
