@@ -53,8 +53,8 @@ sequenceDiagram
     John-->Alice: Great!
     John->Bob: How about you?
     Bob-->John: Jolly good!
-  </div>
-  <div class="mermaid">
+</div>
+<div class="mermaid">
         gantt
         dateFormat  YYYY-MM-DD
         title Adding GANTT diagram functionality to mermaid
@@ -92,7 +92,7 @@ sequenceDiagram
 		C -->|Two| E[Result two]
 </div>
 	
-  <div class="mermaid">	 
+<div class="mermaid">	 
 		classDiagram
 		Class01 <|-- AveryLongClass : Cool
 		Class03 *-- Class04
@@ -107,21 +107,21 @@ sequenceDiagram
 		Class01 : int chimp
 		Class01 : int gorilla
 		Class08 <--> C2: Cool label
-     </div>
-	     <div class="mermaid">	
-	   sequenceDiagram
-    Alice->>Bob: Hello Bob, how are you?
-    alt is sick
-    Bob->>Alice: Not so good :(
-    else is well
-    Bob->>Alice: Feeling fresh like a daisy
-    end
-    opt Extra response
-    Bob->>Alice: Thanks for asking
-    end
 </div>
 <div class="mermaid">	
-		graph LR
+    sequenceDiagram
+	    Alice->>Bob: Hello Bob, how are you?
+	    alt is sick
+	    Bob->>Alice: Not so good :(
+	    else is well
+	    Bob->>Alice: Feeling fresh like a daisy
+	    end
+	    opt Extra response
+	    Bob->>Alice: Thanks for asking
+	    end
+</div>
+<div class="mermaid">	
+	graph LR
 		A[Physics Based Model]-->B(Feature Identification);
 		B-->C(Feature Encoding);
 		B-->b1((segmentation));
