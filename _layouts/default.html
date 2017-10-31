@@ -18,7 +18,9 @@
   {% if page.mathjax %}
     {% include mathjax.html %} <!-- FJ -->
   {% endif %}
-
+  {% if page.mermaid %}
+    {% include mermaid.html %} <!-- FJ -->
+ {% endif %}
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
