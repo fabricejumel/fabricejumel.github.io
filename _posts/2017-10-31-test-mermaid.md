@@ -22,8 +22,9 @@ sequenceDiagram
     John->Bob: How about you?
     Bob-->John: Jolly good!
   </div>
-    <div class="mermaid">
-  gantt
+  
+<div class="mermaid">
+    gantt
         dateFormat  YYYY-MM-DD
         title Adding GANTT diagram functionality to mermaid
         section A section
@@ -38,4 +39,4 @@ sequenceDiagram
         Future task in critical line        :crit, 5d
         Create tests for renderer           :2d
         Add to mermaid                      :1d
-     </div>
+</div>
