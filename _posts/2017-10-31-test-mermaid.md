@@ -8,6 +8,7 @@ mermaid: true
 ---
 
 ### Test de l'integration mermaid svg
+
 <div class="mermaid">
 sequenceDiagram
     loop Daily query
@@ -23,7 +24,9 @@ sequenceDiagram
         end
     end
 </div>
-    
+
+---
+
 <div class="mermaid">
 sequenceDiagram
     participant Alice
