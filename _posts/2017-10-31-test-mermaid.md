@@ -12,7 +12,7 @@ mermaid: true
 <div class="mermaid">
 sequenceDiagram
     loop Daily query
-        Alice->>Bob: Hello Bob, how are you?
+        Alice->>Bob: Hello Bob fa:fa-twitter , how are you?
         alt is sick
             Bob->>Alice: Not so good :(
         else is well
