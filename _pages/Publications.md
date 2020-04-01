@@ -19,12 +19,13 @@ Thesis
 
 International Journals
 ======
+* Fabrice Jumel, IEEE Robotics and Automation Magazine, Advancing Research at the RoboCup@Home Competition , Institute of Electrical and Electronics Engineers, 2019, 26 (2), pp.7-9. ⟨10.1109/MRA.2019.2908571⟩
 * Loïc Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Preliminary results on algorithms for multi-kinect trajectory fusion in a living lab, IRBM, Volume 36, Issue 6, November 2015, Pages 361-366
 * J. Saraydaryan, Fabrice Jumel, Adrien Guenard, ASTRO: Architecture of Services Toward Robotic Objects, IJCSI 2014.
 
 International Conferences
 ======
-
+* Jacques Saraydaryan, Raphael Leber, Fabrice Jumel , People management framework using a 2D camera for human-robot social interactions, RoboCup 2019 – 23rd Annual RoboCup International Symposium, Jul 2019, Sydney, Australia. pp.1-13, **Best Paper Award**
 * F. Jumel, J. Saraydaryan, O. Simonin, Mapping likelihood of encountering humans: application to path planning in crowded environment, European Conference on Mobile Robotics, ECMR 2017
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, A Data Fusion System to Study Synchronization in    Social Activities, IEEE HealthCom 2016.
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Detection of collaborative activity with Kinect depth cameras (accepted for oral présentation), 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBC 2016.
