@@ -26,6 +26,7 @@ International Journals
 International Conferences
 ======
 * Jacques Saraydaryan, Raphael Leber, Fabrice Jumel , People management framework using a 2D camera for human-robot social interactions, RoboCup 2019 – 23rd Annual RoboCup International Symposium, Jul 2019, Sydney, Australia. pp.1-13, **Best Paper Award**
+Fabrice Jumel, Jacques Saraydaryan, Raphael Leber, Laëtitia Matignon, Eric Lombardi, Christian Wolf, Olivier Simonin, Context Aware Robot Architecture, Application to the RoboCup@Home Challenge, RoboCup symposium, Jun 2018, Montreal, Canada. pp.1-12
 * F. Jumel, J. Saraydaryan, O. Simonin, Mapping likelihood of encountering humans: application to path planning in crowded environment, European Conference on Mobile Robotics, ECMR 2017
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, A Data Fusion System to Study Synchronization in    Social Activities, IEEE HealthCom 2016.
 * L. Sevrin, N. Noury, N. Abouchi, F. Jumel, B. Massot, J. Saraydaryan, Detection of collaborative activity with Kinect depth cameras (accepted for oral présentation), 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBC 2016.
