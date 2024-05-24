@@ -3,6 +3,10 @@ permalink: /publications/
 title: "Publications"
 ---
 
+AI Introduction (in french)
+======
+* Fabrice Jumel, Introduction à l'intelligence artifcielle 
+
 Opening keynote speaker
 ======
 * Fabrice Jumel, Why open robotic challenge are so important ! Robocup as a guideline for teaching and research in robotics. Some feedback from Lyon, LARS 2016 (Latin American Robotics Symposium )
