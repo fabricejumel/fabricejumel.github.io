@@ -5,7 +5,7 @@ title: "Publications"
 
 AI Introduction (in french)
 ======
-* Fabrice Jumel, Introduction à l'intelligence artifcielle 
+* Fabrice Jumel, Introduction à l'intelligence artifcielle [Presentation](https://fabricejumel.github.io/assets/images/tdp/IA_V2024_07.pdf)
 
 Opening keynote speaker
 ======
